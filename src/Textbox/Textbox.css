@@ -1,0 +1,7 @@
+input{
+    display: flex;
+border-radius: 6px;
+border-color:rgba(0, 0, 0, 0.4);
+height: 50%;
+width: 100%;
+}
